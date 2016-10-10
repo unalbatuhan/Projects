@@ -1,0 +1,9 @@
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\bin\Debug\School_Project.exe.config
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\bin\Debug\School_Project.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\bin\Debug\School_Project.pdb
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\obj\Debug\School_Project.csprojResolveAssemblyReference.cache
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\obj\Debug\School_Project.Form1.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\obj\Debug\School_Project.Properties.Resources.resources
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\obj\Debug\School_Project.csproj.GenerateResource.Cache
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\obj\Debug\School_Project.exe
+c:\users\batuhan\documents\visual studio 2015\Projects\School_Project\School_Project\obj\Debug\School_Project.pdb
