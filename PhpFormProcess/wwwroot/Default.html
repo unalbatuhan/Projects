@@ -1,0 +1,119 @@
+﻿
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>-->
+    <!--webfonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text.css' />
+    <!--//webfonts-->
+    <title>PHP Form Ödev</title>
+</head>
+<body>
+   
+    <div class="main">
+        <div class="header">
+            
+                <h1>Kullanıcı Kayıt Bilgileri</h1>
+            </div>
+            <p>T.C. Haliç Üniversitesi İnternet Programcılığı </p>
+        <form action="index.php"  method="post">
+            <ul class="left-form">
+                <h2>Aşağıdaki Bilgileri Doldurunuz:</h2>
+                Adınız :
+                <li>
+                  <input type="text" placeholder="Adınızı yazınız" name="username" required />
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+                </li>
+                Soyadınız :
+                <li>
+                    <input type="text" placeholder="Soyadınzı yazınız" name="usersurname" required />
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+                </li>
+                E - Mail
+                <li>
+                 <input type="text" placeholder="Email adresiniz" name="usermail" required />
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+                </li>
+               T.C. Kimlik No :
+                <li>
+                    <input type="text" placeholder="Kimlik numaranız" name="usertckimlikno" required />
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+                </li>  
+                Telefon Numarası :
+                <li>
+                    <input type="text" placeholder="Telefon numaranız" name="usertelno" required />
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+                </li>  
+             
+                    Kayıtlı Olduğunuz İl :
+                    <select name="city" required>
+                        <option value="0" selected="selected">İller listesi</option>
+                        <option value="ist">İstanbul</option>
+                        <option value="ank">Ankara</option>
+                        <option value="bur">Bursa</option>
+                    </select>
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+          
+                Doğum Tarihi :
+                <li>                   
+                    <input type="date" name="userbday">
+                    <a href="#" class="icon ticker"> </a>
+                    <div class="clear"> </div>
+                </li>
+                Şifre :
+                <li>
+                    <input type="password" placeholder="Şifre oluştur" name="sifre1" required />
+                    <a href="#" class="icon into"> </a>
+                    <div class="clear"> </div>
+                </li>
+                Şifre Tekrar :
+                <li>
+                    <input type="password" placeholder="Şifre tekrar" name="sifre2" required />
+                    <a href="#" class="icon into"> </a>
+                    <div class="clear"> </div>
+                </li>
+                <li>
+                    Cinsiyet :
+                    <input type="radio" name="gendererkek" value="male"> Erkek
+                    <input type="radio" name="genderkadin" value="female"> Kadın
+                   
+                </li>
+                <br />
+                <input type="submit" name="btnkayit" value="Kayıt Ol">
+                <div class="clear"> </div>
+            </ul>
+           
+                <!--<ul class="right-form">
+                    <h3>Login:</h3>
+                    <div>
+                       <li><input type="text" placeholder="Username" required /></li>
+                <li> <input type="password" placeholder="Password" required /></li>
+                  <h4>I forgot my Password!</h4>
+                        <input type="submit" onclick="myFunction()" value="Login">
+                    </div>
+                    <div class="clear"> </div>
+                </ul>
+                <div class="clear"> </div>-->
+            
+
+        </form>
+
+    </div>
+    <div class="copy-right">
+        <p>Development by <a href="https://unalbatuhan.azurewebsites.net/ " target="_blank">Batuhan Ünal</a></p>
+    </div>	
+
+
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+2016-11-08T21:40:55.5371161Z,Updating submodules.,b1e6a8c0-13b7-4eb6-ad61-d339a7382b50,0
+2016-11-08T21:40:55.5683717Z,Preparing deployment for commit id '4910585a27'.,b1aa2bff-3afb-467c-a6a9-101d63c413a9,0
+2016-11-08T21:40:55.6777522Z,Generating deployment script.,d00df531-a989-404e-9436-f4addd07047b,0
+	2016-11-08T21:40:55.6963829Z,Using the following command to generate deployment script: 'azure site deploymentscript -y --no-dot-deployment -r "D:\home\site\repository" -o "D:\home\site\deployments\tools" --basic --sitePath "D:\home\site\repository"'.,,0
+	2016-11-08T21:40:56.5166418Z,Generating deployment script for Web Site,,0
+	2016-11-08T21:40:56.5166418Z,Generated deployment script files,,0
+2016-11-08T21:40:56.5635250Z,Running deployment command...,713a0e62-8fdf-4e81-b652-ee43c5859ec6,0
+	2016-11-08T21:40:56.5791433Z,Command: "D:\home\site\deployments\tools\deploy.cmd",,0
+	2016-11-08T21:40:57.2198029Z,Handling Basic Web Site deployment.,,0
+	2016-11-08T21:40:57.4385367Z,KuduSync.NET from: 'D:\home\site\repository' to: 'D:\home\site\wwwroot',,0
+	2016-11-08T21:40:57.4385367Z,Deleting file: 'hostingstart.html',,0
+	2016-11-08T21:40:57.4385367Z,Copying file: 'azuredeploy.json',,0
+	2016-11-08T21:40:57.4385367Z,Copying file: 'EULA_ENU.rtf',,0
+	2016-11-08T21:40:57.4548985Z,Copying file: 'favicon.ico',,0
+	2016-11-08T21:40:57.4548985Z,Copying file: 'index.php',,0
+	2016-11-08T21:40:57.4548985Z,Copying file: 'readme.md',,0
+	2016-11-08T21:40:57.4548985Z,Finished successfully.,,0
+2016-11-08T21:40:57.4854137Z,Running post deployment command(s)...,58301b70-a5f0-4c6c-9e1b-b51ec45db02b,0
+2016-11-08T21:40:57.5494920Z,Deployment successful.,eb4f2847-549c-4a27-9e21-85dcdb6fe1ac,0

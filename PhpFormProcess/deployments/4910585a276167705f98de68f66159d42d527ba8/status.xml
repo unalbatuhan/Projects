@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<deployment>
+  <id>4910585a276167705f98de68f66159d42d527ba8</id>
+  <author>sumuth</author>
+  <deployer>GitHub</deployer>
+  <authorEmail>sumuth@microsft.com</authorEmail>
+  <message>php empty site
+</message>
+  <progress></progress>
+  <status>Success</status>
+  <statusText></statusText>
+  <lastSuccessEndTime>2016-11-08T21:40:57.5651362Z</lastSuccessEndTime>
+  <receivedTime>2016-11-08T21:40:55.5058713Z</receivedTime>
+  <startTime>2016-11-08T21:40:55.5839969Z</startTime>
+  <endTime>2016-11-08T21:40:57.5651362Z</endTime>
+  <complete>True</complete>
+  <is_temp>False</is_temp>
+  <is_readonly>False</is_readonly>
+</deployment>
