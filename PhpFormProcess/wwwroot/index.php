@@ -1,6 +1,6 @@
 <?php
 $connect = mysql_connect("eu-cdbr-azure-north-e.cloudapp.net","baefb5e94ee8b1","8a553dfc") or die("MySql Baglantisi Saglanamadi.");
-mysql_select_db("halicdb") or die("Veritaban? Baglantisi Saglanamadi.");
+mysql_select_db("halicdb") or die("Veritabani Baglantisi Saglanamadi.");
 //$conn = new mysqli($servername, $username, $password);
 //mysql_select_db("halicdb");
 //$servername = "eu-cdbr-azure-north-e.cloudapp.net";
